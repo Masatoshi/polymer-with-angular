@@ -1,0 +1,15 @@
+demo-range {
+  width: 800px;
+}
+
+.result {
+  font-size: large;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 800px;
+}
