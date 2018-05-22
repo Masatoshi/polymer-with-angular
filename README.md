@@ -6,6 +6,9 @@ Custom element location:
 Directive used to react to Polymer Element (paper-slider):
 [polymer-change.directive.ts](src/app/polymer-change.directive.ts)
 
+Template where custom elements are used:
+[app.component.html](src/app/app.component.html)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
